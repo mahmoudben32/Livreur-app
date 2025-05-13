@@ -15,6 +15,3 @@ Access the live application here:
 - **Email:** mkr@mobilis.fr
 - **Mot de passe:** 123456
 
-------
-g-boot:run -f server
-```
