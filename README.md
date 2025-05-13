@@ -1,4 +1,4 @@
-# amorce-technique-back-end-planificateur-app
+# Back-end-planificateur-app
 
 # Mobilis-plateform
 
