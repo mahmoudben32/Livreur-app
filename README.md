@@ -1,4 +1,4 @@
-# Back-end-planificateur-app
+# Livreur-app
 
 # Mobilis-plateform
 
@@ -16,14 +16,5 @@ Access the live application here:
 - **Mot de passe:** 123456
 
 ------
-
-## 🚀 Lancer l'application en local
-
-### 1. Avec Docker Compose
-
-```bash
-docker compose -f docker/docker-compose-local.yml up --detach
-cd backend
-mvn clean install
-mvn spring-boot:run -f server
+g-boot:run -f server
 ```
